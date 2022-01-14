@@ -1,19 +1,19 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Gpt3" src=".github/logo.svg" width="160px">
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DevJPVR/jp-money?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DevJPVR/gpt3-responsive?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DevJPVR/jp-money">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DevJPVR/gpt3-responsive">
 
   
   <a href="https://github.com/DevJPVR/ShoppingCart/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DevJPVR/jp-money">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DevJPVR/gpt3-responsive">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/DevJPVR/jp-money/blob/main/LICENSE">
+   <a href="https://github.com/DevJPVR/gpt3-responsive/blob/main/LICENSE">
 
 
   <a href="#">
@@ -26,7 +26,7 @@
 
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/jpmoney.gif" />
+    <img alt="Gpt3" src=".github/preview.png" />
 </h1>
 
 
@@ -37,15 +37,14 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [MirageJS](https://miragejs.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+
 
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/DevJPVR/gpt3.git
+$ git clone https://github.com/DevJPVR/gpt3-responsive.git
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -60,20 +59,15 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-A aplicação tem como objetivo gerenciar os gastos mensais pessoais, onde é possivel cadastrar todas as entradas e saidas de dinheiro, atribuindo um titulo, uma categoria, o tipo da transação: entrada ou saida, e a data.
-É possivel visualizar no Dashboard de forma pratica e dinamica todos os dados que são inseridos na tabela.
+SPA desenvolvida com o intuito de treinar as minhas capacidades com Flexbox, Grid, Responsividade, utilizando o figma como base para construção do projeto.
 
-## 💻 Informações tecnicas
-
-- Aplicação web desenvolvida em React com o Typescript
-- Estilização feita com o styled-components
-- Modal para cadastrar novas transações com o React-Modal
-- Backend foi criada uma FakeApi com o MirageJS
+- [Link para testar a APP](https://zen-swirles-b4137e.netlify.app/#features)
+- [Layout Figma](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
 
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DevJPVR/GPT3/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DevJPVR/gpt3-responsive/blob/main/LICENSE) para mais detalhes.
 
 ---
 
